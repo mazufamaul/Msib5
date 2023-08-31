@@ -1,0 +1,5 @@
+--Ini Merupakan file untuk data github
+
+file 1 = Nama_mahasiswa
+file 2 = Nim_mahasiswa
+file 3 = Alamat_mahasiswa
